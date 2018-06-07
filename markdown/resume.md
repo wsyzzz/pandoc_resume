@@ -76,12 +76,13 @@ Technical Experience
 --------------------
 
 My Cool Side Projects
-:   I have developed tons of handy tools/libraries at my spare time.                   、
-    * A set of Steem Block Chain Tools: https://helloacm.com/tools/steemit/
-    * A few useful Chrome Extensions: https://helloacm.com/tools/
-    * A few APIs: https://helloacm.com/list-of-apis/
-    * A few Libraries such as SteemVBS: https://github.com/DoctorLai/steemvbs
-    which is the VBScript library to connect to steem blockchain.
+:   I have developed tons of handy tools/libraries at my spare time.   
+
+                、
+- A set of Steem Block Chain Tools: https://helloacm.com/tools/steemit/
+- A few useful Chrome Extensions: https://helloacm.com/tools/
+- A few APIs: https://helloacm.com/list-of-apis/
+- A few Libraries such as SteemVBS: https://github.com/DoctorLai/steemvbs which is the VBScript library to connect to steem blockchain.
 
 Open Source
 :   I love github! most of my tools are open source and I constantly find
