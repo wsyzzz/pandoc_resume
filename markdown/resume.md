@@ -76,8 +76,7 @@ Technical Experience
 --------------------
 
 My Cool Side Projects
-:   I have developed tons of handy tools/libraries at my spare time.
-
+:   I have developed tons of handy tools/libraries at my spare time.                   、
     * A set of Steem Block Chain Tools: https://helloacm.com/tools/steemit/
     * A few useful Chrome Extensions: https://helloacm.com/tools/
     * A few APIs: https://helloacm.com/list-of-apis/
@@ -96,7 +95,7 @@ Programming Languages
 
 :   **obscure-but-impressive-lang:** LOGO, VBScript
 
-:   Basic knowledge of **Java**, **x86 assembly**
+:   Basic knowledge of Java, x86 assembly
 
 Operating System
 :   Ubuntu (I manage a few VPS), Windows 10
