@@ -18,10 +18,10 @@ Job Experience
 * Research, bug-fixes and development for an indoor wireless planning tool using C#.
 * Develop and maintain web-based licensing software using PHP + MySQL + Javascript.
 * Develop Hundreds of Unit Tests and Integration Tests in C# and VBScript.
-* Develop More than 1500 APIs using Delphi.
+* Develop More than 1500 APIs using Delphi COM.
 * Develop Tools of Statistics and Code Quality on Jenkins Continuous Server Powershell.
 * Develop Smart/Intelligent algorithms to convert clutter GIS data to vector building data.
-* Develop various GIS conversion/cropping tools.
+* Develop various GIS conversion/cropping tools using C# ie. GeoConverter.
 * Refactoring and Cleanup Code (produce a much cleaner/elegant code).
 
 **University of Sheffield, UK**
@@ -48,7 +48,7 @@ Education and Awards
     *Thesis title: The Development of an Intelligent Ray Launching Algorithm
      for Wireless Network Planning*
      
-    - *2013*: iPinyou Global RTB Bidding Algorithm Competition (season two offline) by iPinyou.com.cn\
+    - *2013*: Top 30 iPinyou Global RTB Bidding Algorithm Competition (season two offline) by iPinyou.com.cn\
     - *2009*: Marie Curie Fellowship for Transfer of Knowledge by University of Applied Sciences of Western Switzerland
 
 2004-2006
@@ -57,7 +57,7 @@ Education and Awards
     
     *These title: Chinese Chess*
     
-    - *2004*: National Computer Rank Programming Contest, Ji Nian Prize by National Education Examinations & China Education
+    - *2004*: National Computer Rank Programming Contest, Top 30 by National Education Examinations & China Education
 
 Technical Experience
 --------------------
@@ -67,7 +67,7 @@ Side Projects
 - A set of Steem Block Chain Tools: [https://helloacm.com/tools/steemit/](https://helloacm.com/tools/steemit/)
 - A few useful Chrome Extensions: [https://helloacm.com/tools/](https://helloacm.com/tools/)
 - A few APIs: [https://helloacm.com/list-of-apis/](https://helloacm.com/list-of-apis/)
-- A few Libraries such as SteemVBS: [https://github.com/DoctorLai/steemvbs](https://github.com/DoctorLai/steemvbs) which is the VBScript library to connect to steem blockchain.
+- A few Libraries such as SteemVBS: [https://github.com/DoctorLai/steemvbs](https://github.com/DoctorLai/steemvbs) which is the first and only VBScript library to connect to steem blockchain.
 
 Open Source
 :   I love github! most of my tools are open source and I constantly find
