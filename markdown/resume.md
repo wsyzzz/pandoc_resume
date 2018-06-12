@@ -68,9 +68,7 @@ Side Projects
 - A few Libraries such as SteemVBS: [https://github.com/DoctorLai/steemvbs](https://github.com/DoctorLai/steemvbs) which is the first and only VBScript library to connect to steem blockchain.
 
 Open Source
-:   I love github! most of my tools are open source and I constantly find
-    bugs and create issues or PR to other open source libraries. My github
-    id is *doctorlai*
+:   Most of my tools are open source and I constantly find bugs and create issues or PR to other open source libraries. My github id is *doctorlai* and my NPMJs ID is *justyy*
 
 Programming Languages
 :   C99, C++ 17, C# 7.0, Java 7, Delphi XE10, Javascript (JQuery), Python 2/3, PHP 7.x, HTML5/CSS, SQL, BASH, AWK, LATEX, LUA, LOGO, VBScript, x86 Assembly 

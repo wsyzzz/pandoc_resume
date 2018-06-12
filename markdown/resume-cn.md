@@ -67,7 +67,7 @@
 - 一些有意思的开源库，比如SteemVBS：[https://github.com/DoctorLai/steemvbs](https://github.com/DoctorLai/steemvbs) 这是第一个（也是唯一一个）通过 VBScript 来访问STEEM区块链的库。
 
 开源
-:   我的大部分工具和库都分享在开源github 上。我的github ID是*doctorlai*
+:   我的大部分工具和库都分享在开源github 上。我的github ID是*doctorlai* 我的 NPMJs ID是 justyy
 
 编程语言
 :   C99, C++ 17, C# 7.0, Java 7, Delphi XE10, Javascript (JQuery), Python 2/3, PHP 7.x, HTML5/CSS, SQL, BASH, AWK, LATEX, LUA, LOGO, VBScript, x86 Assembly 
