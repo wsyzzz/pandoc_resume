@@ -76,7 +76,7 @@ Programming Languages
 :   C99, C++ 17, C# 7.0, Java 7, Delphi XE10, Javascript (JQuery), Python 2/3, PHP 7.x, HTML5/CSS, SQL, BASH, AWK, LATEX, LUA, LOGO, VBScript, x86 Assembly 
 
 Databases
-:   MySQL, MS SQL Server, MongoDB
+:   MySQL, MS SQL Server, MongoDB, SQLite
 
 Operating System
 :   Ubuntu (I manage a few VPS), Windows 10

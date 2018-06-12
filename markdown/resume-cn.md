@@ -73,7 +73,7 @@
 :   C99, C++ 17, C# 7.0, Java 7, Delphi XE10, Javascript (JQuery), Python 2/3, PHP 7.x, HTML5/CSS, SQL, BASH, AWK, LATEX, LUA, LOGO, VBScript, x86 Assembly 
 
 数据库
-:   MySQL, MS SQL Server, MongoDB
+:   MySQL, MS SQL Server, MongoDB, SQLite
 
 操作系统
 :   Ubuntu (我长期管理多个VPS), Windows 10
