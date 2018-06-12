@@ -8,3 +8,4 @@ resume.tex
 *.docx
 *.rtf
 output/*
+deploy.sh
