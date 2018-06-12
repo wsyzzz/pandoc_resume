@@ -78,6 +78,19 @@
 操作系统
 :   Ubuntu (我长期管理多个VPS), Windows 10
 
+精选著作
+---------
+
+* Chapter 2 - Radio Propagation Modelling, in Book "Heterogeneous Cellular Networks: Theory, Simulation and Deployment" (edited by Xiaoli Chu, David Lopez-Perez, Fredrik Gunnarsson, and Yang Yang), Cambridge University Press, 2012
+* Chapter 5 - Outdoor-Indoor Channel, in Book "LTE-Advanced and Next Generation Wireless Networks: Channel Modelling and Propagation" (edited by Guillaume de la Roche, Andres Alayon Glazunov and Ben Allen), John Wiley & Sons, November, 2012
+* Intelligent Ray Launching Algorithm for Indoor Scenarios, Radioengineering, Towards EUCAP 2012: Emerging Materials, Methods, and Technologies in Antenna & Propagation, Volume 20, Number 2, 2011, ISSN: 1210-2512, p.p.:398-408.
+* The Development of a Parallel Ray Launching Algorithm for Wireless Network Planning, International Journal of Distributed Systems and Technologies, IGI, DOI: 10.4018/jdst.2011040101, Volume 2, Issue 2, 2011.
+* Indoor Massive MIMO Channel Modelling Using Ray-Launching Simulation, International Journal of Antennas and Propagation, Volume 2014 (2014), Article ID 279380
+* Joint Ray Launching Method for Outdoor to Indoor Propagation Prediction Based on Interpolation, The Ninth European Conference on Antennas and Propagation, EUCAP, IEEE, Lisbon, Portugal, April 12-17, 2015.
+* Modelling the mmWave Channel Based on Intelligent Ray Launching Model, The Ninth European Conference on Antennas and Propagation, EUCAP, IEEE, Lisbon, Portugal, April 12-17, 2015
+* Implementation and Validation of a 2.5D Intelligent Ray Launching Algorithm for Large Urban Scenarios, The Sixth European Conference on Antennas and Propagation, EUCAP, IEEE, Prague, Czech Republic, March 26-30, 2012,ISBN: 978-1-4577-0919-7
+* Joint Ray Launching Method for Indoor to Outdoor Propagation Prediction Based on Ray Aggregation, The Ninth European Conference on Antennas and Propagation, EUCAP, IEEE, Lisbon, Portugal, April 12-17, 2015. 
+
 其它
 ----------------------------------------
 * 我博士期间研发的传播模型IRLA在书 "Femtocells - Technologies and Deployment", John Wiley & Sons, 328 pages里被引用, Jan. 2010, ISBN: 978-0-470-74298-3. 

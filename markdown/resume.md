@@ -81,13 +81,26 @@ Databases
 Operating System
 :   Ubuntu (I manage a few VPS), Windows 10
 
+
+Selected Publications
+---------
+
+* Chapter 2 - Radio Propagation Modelling, in Book "Heterogeneous Cellular Networks: Theory, Simulation and Deployment" (edited by Xiaoli Chu, David Lopez-Perez, Fredrik Gunnarsson, and Yang Yang), Cambridge University Press, 2012
+* Chapter 5 - Outdoor-Indoor Channel, in Book "LTE-Advanced and Next Generation Wireless Networks: Channel Modelling and Propagation" (edited by Guillaume de la Roche, Andres Alayon Glazunov and Ben Allen), John Wiley & Sons, November, 2012
+* Intelligent Ray Launching Algorithm for Indoor Scenarios, Radioengineering, Towards EUCAP 2012: Emerging Materials, Methods, and Technologies in Antenna & Propagation, Volume 20, Number 2, 2011, ISSN: 1210-2512, p.p.:398-408.
+* The Development of a Parallel Ray Launching Algorithm for Wireless Network Planning, International Journal of Distributed Systems and Technologies, IGI, DOI: 10.4018/jdst.2011040101, Volume 2, Issue 2, 2011.
+* Indoor Massive MIMO Channel Modelling Using Ray-Launching Simulation, International Journal of Antennas and Propagation, Volume 2014 (2014), Article ID 279380
+* Joint Ray Launching Method for Outdoor to Indoor Propagation Prediction Based on Interpolation, The Ninth European Conference on Antennas and Propagation, EUCAP, IEEE, Lisbon, Portugal, April 12-17, 2015.
+* Modelling the mmWave Channel Based on Intelligent Ray Launching Model, The Ninth European Conference on Antennas and Propagation, EUCAP, IEEE, Lisbon, Portugal, April 12-17, 2015
+* Implementation and Validation of a 2.5D Intelligent Ray Launching Algorithm for Large Urban Scenarios, The Sixth European Conference on Antennas and Propagation, EUCAP, IEEE, Prague, Czech Republic, March 26-30, 2012,ISBN: 978-1-4577-0919-7
+* Joint Ray Launching Method for Indoor to Outdoor Propagation Prediction Based on Ray Aggregation, The Ninth European Conference on Antennas and Propagation, EUCAP, IEEE, Lisbon, Portugal, April 12-17, 2015. 
+
 Others
 ----------------------------------------
-* My propagation model 'IRLA' is well-known in both academia and industrials. It has been cited in the book "Femtocells - Technologies and Deployment", John Wiley & Sons, 328 pages, Jan. 2010, ISBN: 978-0-470-74298-3. 
+* My propagation model 'IRLA' has been cited in the book "Femtocells - Technologies and Deployment", John Wiley & Sons, ISBN: 978-0-470-74298-3. 
 * I write highly-optimized code (which uses less memory and executes faster). For example, for Problem 1532 on ACM Timus Online Judge, my submission ranks the second. The maximum time allowed is 4 seconds but my algorithm executes in 0.312 seconds. [http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100](http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100)
-* BlockChain:
-     * I run a delegated service on steem blockchain [\@justyy](https://steemd.com/@justyy) where Steemians delegate their Steem Power to me and my bots send out the Steem Dollars (tokens) at a rate of 8% to 10%. Also my bots are up running 24/7 to vote the quality posts of the delegatees. 
-     * I also run [\@dailychina](https://steemd.com/@dailychina) where the algorithms select top 10 quality posts and reward them daily (very popular and postive feedbacks received).
+* I run a delegated service on steem blockchain [\@justyy](https://steemd.com/@justyy) where Steemians delegate their Steem Power to me and my bots send out the Steem Dollars (tokens) at a rate of 8% to 10%. Also my bots are up running 24/7 to vote the quality posts of the delegatees. 
+* I also run [\@dailychina](https://steemd.com/@dailychina) where the algorithms select top 10 quality posts and reward them daily (very popular and postive feedbacks received).
 
 ----
 
