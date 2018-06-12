@@ -45,15 +45,13 @@ Education and Awards
 2006-2010
 :   **PhD, Computer Science and Wireless**; University of Bedfordshire (UK)
 
-    *Thesis title: The Development of an Intelligent Ray Launching Algorithm
-     for Wireless Network Planning*
+    *Thesis title: The Development of an Intelligent Ray Launching Algorithm for Wireless Network Planning*
      
     - *2013*: Top 30 iPinyou Global RTB Bidding Algorithm Competition (season two offline) by iPinyou.com.cn\
     - *2009*: Marie Curie Fellowship for Transfer of Knowledge by University of Applied Sciences of Western Switzerland
 
 2004-2006
-:   **BSc, Computer Science (First Class, Score 15.51 out of 16)**; University of
-    Luton (UK)
+:   **BSc, Computer Science (First Class, Score 15.51 out of 16)**; University of Luton (UK)
     
     *These title: Chinese Chess*
     
@@ -76,6 +74,9 @@ Open Source
 
 Programming Languages
 :   C99, C++ 17, C# 7.0, Java 7, Delphi XE10, Javascript (JQuery), Python 2/3, PHP 7.x, HTML5/CSS, SQL, BASH, AWK, LATEX, LUA, LOGO, VBScript, x86 Assembly 
+
+Databases
+:   MySQL, MS SQL Server, MongoDB
 
 Operating System
 :   Ubuntu (I manage a few VPS), Windows 10

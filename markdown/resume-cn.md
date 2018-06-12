@@ -45,8 +45,7 @@
 2006-2010
 :   **博士, 计算机和通讯** 英国贝尔福德大学
 
-    *论文: The Development of an Intelligent Ray Launching Algorithm
-     for Wireless Network Planning*
+    *论文: The Development of an Intelligent Ray Launching Algorithm for Wireless Network Planning*
      
     - *2013*: 品友互动全球广告算法大赛第二季离线前30名\
     - *2009*: 瑞士西部弗里堡工程师与建筑师学院奖学金 Marie Curie Fellowship for Transfer of Knowledge
@@ -72,6 +71,9 @@
 
 编程语言
 :   C99, C++ 17, C# 7.0, Java 7, Delphi XE10, Javascript (JQuery), Python 2/3, PHP 7.x, HTML5/CSS, SQL, BASH, AWK, LATEX, LUA, LOGO, VBScript, x86 Assembly 
+
+数据库
+:   MySQL, MS SQL Server, MongoDB
 
 操作系统
 :   Ubuntu (我长期管理多个VPS), Windows 10
