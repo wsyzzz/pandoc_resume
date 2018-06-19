@@ -14,6 +14,10 @@ Job Experience
 * Lead a Propagation Team e.g. Rewrite RPM in C++.
 * OpenCL GPU Implementation of Vector Ray Launching Propagation Algorithms.
 * Prototyping the Geo-localization algorithm using KNN and other machine learning algorithms.
+    * Test the performance with Linear Regression and Logistic Regression.
+    * K-means clustering
+    * Naive Bayes Algorithm
+    * Research and Implement the Machine Learning algorithms to predict the wireless building network performance using Support Vector Machine.
 * Develop the 32/64-bit cutting-edge wireless radiowave propagation engine (plugins, scripts) using C++, Delphi and Inline Assembly.
 * Research, bug-fixes and development for an indoor wireless planning tool using C#.
 * Develop and maintain web-based licensing software using PHP + MySQL + Javascript.
@@ -47,7 +51,7 @@ Education and Awards
 
     *Thesis title: The Development of an Intelligent Ray Launching Algorithm for Wireless Network Planning*
      
-    - *2013*: Top 30 iPinyou Global RTB Bidding Algorithm Competition (season two offline) by iPinyou.com.cn\
+    - *2013*: Top 30 iPinyou Global RTB Bidding Algorithm Contest (season two offline) (rule based Simulate Annealing heuristic algorithm)\
     - *2009*: Marie Curie Fellowship for Transfer of Knowledge by University of Applied Sciences of Western Switzerland
 
 2004-2006
@@ -68,10 +72,10 @@ Side Projects
 - A few Libraries such as SteemVBS: [https://github.com/DoctorLai/steemvbs](https://github.com/DoctorLai/steemvbs) which is the first and only VBScript library to connect to steem blockchain.
 
 Open Source
-:   Most of my tools are open source and I constantly find bugs and create issues or PR to other open source libraries. My github id is *doctorlai* and my NPMJs ID is *justyy*
+:   Most of my tools are open source and I constantly find bugs and create issues or PR to other open source libraries. My github id is *doctorlai* and my NPMJs ID is *justyy*. I am also a Utopian Moderator (Rewarding Open Source Contributor via Steem Blockchain)
 
 Programming Languages
-:   C99, C++ 17, C# 7.0, Java 7, Delphi XE10, Javascript (JQuery), Python 2/3, PHP 7.x, HTML5/CSS, SQL, BASH, AWK, LATEX, LUA, LOGO, VBScript, x86 Assembly 
+:   C99, C++ 17, C# 7.0, Java 7, Delphi XE10, Javascript (JQuery, NodeJs), Python 2/3, PHP 7.x, R, HTML5/CSS, SQL, BASH, AWK, LATEX, LUA, LOGO, VBScript, x86 Assembly 
 
 Databases
 :   MySQL, MS SQL Server, MongoDB, SQLite
@@ -91,7 +95,6 @@ Selected Publications
 * Joint Ray Launching Method for Outdoor to Indoor Propagation Prediction Based on Interpolation, The Ninth European Conference on Antennas and Propagation, EUCAP, IEEE, Lisbon, Portugal, April 12-17, 2015.
 * Modelling the mmWave Channel Based on Intelligent Ray Launching Model, The Ninth European Conference on Antennas and Propagation, EUCAP, IEEE, Lisbon, Portugal, April 12-17, 2015
 * Implementation and Validation of a 2.5D Intelligent Ray Launching Algorithm for Large Urban Scenarios, The Sixth European Conference on Antennas and Propagation, EUCAP, IEEE, Prague, Czech Republic, March 26-30, 2012,ISBN: 978-1-4577-0919-7
-* Joint Ray Launching Method for Indoor to Outdoor Propagation Prediction Based on Ray Aggregation, The Ninth European Conference on Antennas and Propagation, EUCAP, IEEE, Lisbon, Portugal, April 12-17, 2015. 
 
 Others
 ----------------------------------------

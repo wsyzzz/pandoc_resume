@@ -14,6 +14,10 @@
 * 带领无线传播模型小组：用C++重写
 * 通过OpenCL GPU来实现对一些矢量传播模型的性能加速
 * 通过KNN还有其它机器学习算法来实现无线UE的定位
+    * 测试线性回归和逻辑回归的性能表现
+    * K-means 分类算法
+    * Naive Bayes 算法
+    * 用 支持向量机 算法来预测无线网络建筑性能表现 
 * 开发32和64位前沿的无线网络传播模型引擎：C++、Delphi、内链汇编和一些脚本
 * 研发（包括BUG修复）一款室内无线规化优化软件：C#
 * 开发和维护基于网页端的License验证系统：PHP + MySQL + Javascript
@@ -47,7 +51,7 @@
 
     *论文: The Development of an Intelligent Ray Launching Algorithm for Wireless Network Planning*
      
-    - *2013*: 品友互动全球广告算法大赛第二季离线前30名\
+    - *2013*: 品友互动全球广告算法大赛第二季离线前30名 (启发式模拟退火算法)\
     - *2009*: 瑞士西部弗里堡工程师与建筑师学院奖学金 Marie Curie Fellowship for Transfer of Knowledge
 
 2004-2006
@@ -67,10 +71,10 @@
 - 一些有意思的开源库，比如SteemVBS：[https://github.com/DoctorLai/steemvbs](https://github.com/DoctorLai/steemvbs) 这是第一个（也是唯一一个）通过 VBScript 来访问STEEM区块链的库。
 
 开源
-:   我的大部分工具和库都分享在开源github 上。我的github ID是*doctorlai* 我的 NPMJs ID是 justyy
+:   我的大部分工具和库都分享在开源github 上。我的github ID是*doctorlai* 我的 NPMJs ID是 justyy。同时我也是 Utopian 的审稿人（用STEEM来奖励开源贡献者）
 
 编程语言
-:   C99, C++ 17, C# 7.0, Java 7, Delphi XE10, Javascript (JQuery), Python 2/3, PHP 7.x, HTML5/CSS, SQL, BASH, AWK, LATEX, LUA, LOGO, VBScript, x86 Assembly 
+:   C99, C++ 17, C# 7.0, Java 7, Delphi XE10, Javascript (JQuery, NodeJs), Python 2/3, PHP 7.x, HTML5/CSS, R, SQL, BASH, AWK, LATEX, LUA, LOGO, VBScript, x86 Assembly 
 
 数据库
 :   MySQL, MS SQL Server, MongoDB, SQLite
@@ -89,7 +93,6 @@
 * Joint Ray Launching Method for Outdoor to Indoor Propagation Prediction Based on Interpolation, The Ninth European Conference on Antennas and Propagation, EUCAP, IEEE, Lisbon, Portugal, April 12-17, 2015.
 * Modelling the mmWave Channel Based on Intelligent Ray Launching Model, The Ninth European Conference on Antennas and Propagation, EUCAP, IEEE, Lisbon, Portugal, April 12-17, 2015
 * Implementation and Validation of a 2.5D Intelligent Ray Launching Algorithm for Large Urban Scenarios, The Sixth European Conference on Antennas and Propagation, EUCAP, IEEE, Prague, Czech Republic, March 26-30, 2012,ISBN: 978-1-4577-0919-7
-* Joint Ray Launching Method for Indoor to Outdoor Propagation Prediction Based on Ray Aggregation, The Ninth European Conference on Antennas and Propagation, EUCAP, IEEE, Lisbon, Portugal, April 12-17, 2015. 
 
 其它
 ----------------------------------------
