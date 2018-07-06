@@ -69,10 +69,11 @@ Side Projects
 - A set of Steem Block Chain Tools: [https://helloacm.com/tools/steemit/](https://helloacm.com/tools/steemit/)
 - A few useful Chrome Extensions: [https://helloacm.com/tools/](https://helloacm.com/tools/)
 - A few APIs: [https://helloacm.com/list-of-apis/](https://helloacm.com/list-of-apis/)
-- A few Libraries such as SteemVBS: [https://github.com/DoctorLai/steemvbs](https://github.com/DoctorLai/steemvbs) which is the first and only VBScript library to connect to steem blockchain.
+- A few Libraries (and NPM) e.g SteemVBS: [https://github.com/DoctorLai/steemvbs](https://github.com/DoctorLai/steemvbs) which is the first and only VBScript library to connect to steem blockchain.
+- Online Video Downloaders and APIs - [https://weibomiaopai.com](https://weibomiaopai.com) - Alexa Rank - about 100K globally.
 
 Open Source
-:   Most of my tools are open source and I constantly find bugs and create issues or PR to other open source libraries. My github id is *doctorlai* and my NPMJs ID is *justyy*. I am also a Utopian Moderator (Rewarding Open Source Contributor via Steem Blockchain)
+:   Most of my tools are open source and I constantly find bugs and create issues or PR to other open source libraries. My github id is *doctorlai* and my NPM-Js ID is *justyy*. I am also a Utopian Moderator (Rewarding Open Source Contributor via Steem Blockchain)
 
 Programming Languages
 :   C99, C++ 17, C# 7.0, Java 7, Delphi XE10, Javascript (JQuery, NodeJs), Python 2/3, PHP 7.x, R, HTML5/CSS, SQL, BASH, AWK, LATEX, LUA, LOGO, VBScript, x86 Assembly 
@@ -102,6 +103,7 @@ Others
 * I write highly-optimized code (which uses less memory and executes faster). For example, for Problem 1532 on ACM Timus Online Judge, my submission ranks the second. The maximum time allowed is 4 seconds but my algorithm executes in 0.312 seconds. [http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100](http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100)
 * I run a delegated service on steem blockchain [\@justyy](https://steemd.com/@justyy) where Steemians delegate their Steem Power to me and my bots send out the Steem Dollars (tokens) at a rate of 8% to 10%. Also my bots are up running 24/7 to vote the quality posts of the delegatees. 
 * I also run [\@dailychina](https://steemd.com/@dailychina) where the algorithms select top 10 quality posts and reward them daily (very popular and postive feedbacks received).
+* My Chrome Extension [Simple Video Downloader](https://chrome.google.com/webstore/detail/simple-video-download-hel/ilcdiicigjaccgipndigcenjieedjohj) has more than 10K users atm.
 
 ----
 

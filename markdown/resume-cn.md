@@ -68,7 +68,8 @@
 - STEEM区块链上的工具：[https://helloacm.com/tools/steemit/](https://helloacm.com/tools/steemit/)
 - 一些有意思的Chrome 浏览器插件：[https://helloacm.com/tools/](https://helloacm.com/tools/)
 - 一些API：[https://helloacm.com/list-of-apis/](https://helloacm.com/list-of-apis/)
-- 一些有意思的开源库，比如SteemVBS：[https://github.com/DoctorLai/steemvbs](https://github.com/DoctorLai/steemvbs) 这是第一个（也是唯一一个）通过 VBScript 来访问STEEM区块链的库。
+- 一些有意思的开源库(包括 NPM-JS)，比如SteemVBS：[https://github.com/DoctorLai/steemvbs](https://github.com/DoctorLai/steemvbs) 这是第一个（也是唯一一个）通过 VBScript 来访问STEEM区块链的库。
+- 在线视频下载利器和API - [https://weibomiaopai.com](https://weibomiaopai.com) - Alexa 排名：全球大约10万.
 
 开源
 :   我的大部分工具和库都分享在开源github 上。我的github ID是*doctorlai* 我的 NPMJs ID是 justyy。同时我也是 Utopian 的审稿人（用STEEM来奖励开源贡献者）
@@ -101,6 +102,7 @@
 * 区块链:
      * 我在STEEM区块链上开了第一家银行。股东们通过代理STEEM POWER给 [\@justyy](https://steemd.com/@justyy) 就能获得年利率8%到10%的利息（每日发放），同时我的机器人24/7将对股东的文章进行相应比例的点赞。
      * 同时我创建的 [\@dailychina](https://steemd.com/@dailychina) 将每日从中文区（机器+算法）选出10佳文章进行相应的奖赏鼓励，很受欢迎。
+* 我的CHROME扩展: [视频下载利器](https://chrome.google.com/webstore/detail/simple-video-download-hel/ilcdiicigjaccgipndigcenjieedjohj) 已经有超过1万多用户了.
 
 ----
 
