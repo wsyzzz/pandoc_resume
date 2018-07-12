@@ -103,7 +103,7 @@ My Other Achievements
 * I write highly-optimized code (which uses less memory and executes faster). For example, for Problem 1532 on ACM Timus Online Judge, my submission ranks the second. The maximum time allowed is 4 seconds but my algorithm executes in 0.312 seconds. [http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100](http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100)
 * I run a delegated service on steem blockchain [\@justyy](https://steemd.com/@justyy) where Steemians delegate their Steem Power to me and my bots send out the Steem Dollars (tokens) at a rate of 8% to 10%. Also my bots are up running 24/7 to vote the quality posts of the delegatees. 
 * I run [\@dailychina](https://steemd.com/@dailychina) where the algorithms select top 10 quality posts and reward them daily (very popular and postive feedbacks received).
-* I develop the [\@fairlottery](https://steemit.com/fairlottery/@fairlottery/readme) (Blockchain Lottery) and [\@witnesstools](https://steemit.com/busy/@witnesstools/let-s-guess-transactionnum) (Steem Blockchain Gambling).
+* I develop [\@fairlottery](https://steemit.com/fairlottery/@fairlottery/readme) (Blockchain Lottery) and [\@witnesstools](https://steemit.com/busy/@witnesstools/let-s-guess-transactionnum) (Steem Blockchain Gambling).
 * My Chrome Extension [Simple Video Downloader](https://chrome.google.com/webstore/detail/simple-video-download-hel/ilcdiicigjaccgipndigcenjieedjohj) has more than 10K users atm.
 
 ----
