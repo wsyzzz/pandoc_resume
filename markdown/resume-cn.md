@@ -95,14 +95,15 @@
 * Modelling the mmWave Channel Based on Intelligent Ray Launching Model, The Ninth European Conference on Antennas and Propagation, EUCAP, IEEE, Lisbon, Portugal, April 12-17, 2015
 * Implementation and Validation of a 2.5D Intelligent Ray Launching Algorithm for Large Urban Scenarios, The Sixth European Conference on Antennas and Propagation, EUCAP, IEEE, Prague, Czech Republic, March 26-30, 2012,ISBN: 978-1-4577-0919-7
 
-其它
+其它成就
 ----------------------------------------
 * 我博士期间研发的传播模型IRLA在书 "Femtocells - Technologies and Deployment", John Wiley & Sons, 328 pages里被引用, Jan. 2010, ISBN: 978-0-470-74298-3. 
 * 我能写出更优化的算法（代码）。我也经常刷题，比如ACM-Timus第1532题，我的代码至今排第二。要求是4秒用时而我的方案只需要0.312秒。[http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100](http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100)
 * 区块链:
      * 我在STEEM区块链上开了第一家银行。股东们通过代理STEEM POWER给 [\@justyy](https://steemd.com/@justyy) 就能获得年利率8%到10%的利息（每日发放），同时我的机器人24/7将对股东的文章进行相应比例的点赞。
      * 同时我创建的 [\@dailychina](https://steemd.com/@dailychina) 将每日从中文区（机器+算法）选出10佳文章进行相应的奖赏鼓励，很受欢迎。
-* 我的CHROME扩展: [视频下载利器](https://chrome.google.com/webstore/detail/simple-video-download-hel/ilcdiicigjaccgipndigcenjieedjohj) 已经有超过1万多用户了.
+     * 我在区块链上开发了 [\@fairlottery 彩票](https://steemit.com/fairlottery/@fairlottery/readme) 和 [\@witnesstools 赌场游戏](https://steemit.com/busy/@witnesstools/let-s-guess-transactionnum)
+* 我的CHROME扩展: [视频下载利器](https://chrome.google.com/webstore/detail/simple-video-download-hel/ilcdiicigjaccgipndigcenjieedjohj) 已经有超过1万多用户了。
 
 ----
 
