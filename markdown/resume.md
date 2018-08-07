@@ -1,7 +1,7 @@
 Zhihua Lai
 ============
 
-> A Steem BlockChain Witness Developer, SEO-er, highly-motivated learner, and Open Source Enthisiast!
+> A Steem BlockChain Witness Developer (Global Rank Top 60 out of 1000+), highly-motivated learner (PhD), and Open Source Enthisiast (doctorlai@Github)! 
 
 Job Experience
 ----------
@@ -9,6 +9,7 @@ Job Experience
 **Ranplan Wireless (Cambridgeshire, UK)**
 *Principal Software Engineer, 2010 to present*: I am one of the lead developers for this product (C#7, .NET4.7): [https://www.ranplan.co.uk/products/](https://www.ranplan.co.uk/products/)  and I design, develop and maintain the core library (Radio Propagation engine). It is a 500K LOC code base that consists of Visual Studio C++ 2017, Delphi 10.2 Tokyo with some Inline Assembly and some VBS/JS.
 
+* C++ 14 Experience: 5 years, C# 5Y, Javascript 4Y, PHP 8Y, PYTHON 5Y, C 10Y, DELPHI 10Y
 * Agile/Scrum
 * Core developer of the flagship product: The Author of Ranplan Radiowave Propagation Model.
 * Lead a Propagation Team e.g. Rewrite RPM in C++.
@@ -22,14 +23,13 @@ Job Experience
 * Research, bug-fixes and development for an indoor wireless planning tool using C#.
 * Develop and maintain web-based licensing software using PHP + MySQL + Javascript.
 * Develop Hundreds of Unit Tests and Integration Tests in C# and VBScript.
-* Develop More than 1500 APIs using Delphi COM.
+* Develop More than 1500 APIs using Delphi (Win32/64 COM Library).
 * Develop Tools of Statistics and Code Quality on Jenkins Continuous Server Powershell.
 * Develop Smart/Intelligent algorithms to convert clutter GIS data to vector building data.
 * Develop various GIS conversion/cropping tools using C# ie. GeoConverter.
-* Refactoring and Cleanup Code (produce a much cleaner/elegant code).
 
 **University of Sheffield, UK**
-*Marie Curie Experienced Researcher, 2013 to 2015 - contract*: Development of tools for the design of wireless and energy efficient buildings; in charge of high frequency ray tracing tools.
+*Marie Curie Experienced Researcher, 2013 to 2015*: Development of tools for the design of wireless and energy efficient buildings; in charge of high frequency ray tracing tools.
 
 Awards 
 ---------
@@ -39,8 +39,8 @@ Awards
 Patents
 ---------
 
-* PCT/GB2015/053224, Zhihua Lai and Bing Xia, Method for Predicting Outdoor Three-Dimensional Space Signal Field Strength By Extended Cost-231-Walfisch-Ikegami Propagation Model, US Patent Application No. 15/522,728, Claimed Filing Date: 27 October 2015, Priority Application Details: CN 201410584361.5
-* PCT/GB2015/053223, Zhihua Lai and Bing Xia, Method for Predicting Indoor Three-Dimensional Space Signal Field Strength Using An Outdoor-To-Indoor Propagation Model, US Patent Application No. 15/522,735, Claimed Filing Date: 27 October 2015, Priority Application Details: CN 201410583520.X
+* PCT/GB2015/053224, Zhihua Lai etc., Method for Predicting Outdoor Three-Dimensional Space Signal Field Strength By Extended Cost-231-Walfisch-Ikegami Propagation Model, US Patent Application No. 15/522,728, Claimed Filing Date: 27 October 2015.
+* PCT/GB2015/053223, Zhihua Lai etc., Method for Predicting Indoor Three-Dimensional Space Signal Field Strength Using An Outdoor-To-Indoor Propagation Model, US Patent Application No. 15/522,735, Claimed Filing Date: 27 October 2015.
 * *And 5 others.*
     
 Education and Awards
@@ -70,7 +70,7 @@ Side Projects
 - A few useful Chrome Extensions: [https://helloacm.com/tools/](https://helloacm.com/tools/)
 - A few APIs: [https://helloacm.com/list-of-apis/](https://helloacm.com/list-of-apis/)
 - A few Libraries (and NPM) e.g SteemVBS: [https://github.com/DoctorLai/steemvbs](https://github.com/DoctorLai/steemvbs) which is the first and only VBScript library to connect to steem blockchain.
-- Online Video Downloaders and APIs - [https://weibomiaopai.com](https://weibomiaopai.com) - Alexa Rank - about 100K globally.
+- Online Video Downloaders and APIs - [https://weibomiaopai.com](https://weibomiaopai.com) Alexa Rank - about 100K.
 
 Open Source
 :   Most of my tools are open source and I constantly find bugs and create issues or PR to other open source libraries. My github id is *doctorlai* and my NPM-Js ID is *justyy*. I am also a Utopian Moderator (Rewarding Open Source Contributor via Steem Blockchain)
@@ -109,6 +109,6 @@ My Other Achievements
 ----
 
 > <dr.zhihua.lai@gmail.com> • +44 (0)7939518997 • 34 years old\
-> address - CB24 4TG, Cambridgeshire, UK
+> **Indefinitely Leave to Remain** - address - CB24 4TG, Cambridgeshire, UK
 
 *built via Pandoc/Markdown, source: [https://github.com/DoctorLai/pandoc_resume/blob/master/markdown/resume.md](https://github.com/DoctorLai/pandoc_resume/blob/master/markdown/resume.md)*
