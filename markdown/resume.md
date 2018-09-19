@@ -7,7 +7,7 @@ Job Experience
 ----------
 
 **Ranplan Wireless (Cambridgeshire, UK)**
-*Principal Software Engineer, 2010 to present*: I am one of the lead developers for this product (C#7, .NET4.7): [https://www.ranplan.co.uk/products/](https://www.ranplan.co.uk/products/)  and I design, develop and maintain the core library (Radio Propagation engine). It is a 500K LOC code base that consists of Visual Studio C++ 2017, Delphi 10.2 Tokyo with some Inline Assembly and some VBS/JS.
+*Senior Algorithm Engineer, 2010 to present*: I am one of the lead developers for this product (C#7, .NET4.7): [https://www.ranplan.co.uk/products/](https://www.ranplan.co.uk/products/)  and I design, develop and maintain the core library (Radio Propagation engine). It is a 500K LOC code base that consists of Visual Studio C++ 2017, Delphi 10.2 Tokyo with some Inline Assembly and some VBS/JS.
 
 * C++ 14 Experience: 5 years, C# 5Y, Javascript 4Y, PHP 8Y, PYTHON 5Y, C 10Y, DELPHI 10Y
 * Agile/Scrum
